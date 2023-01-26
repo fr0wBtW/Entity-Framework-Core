@@ -1,0 +1,14 @@
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\bin\Debug\netcoreapp3.1\Vilain Names.exe
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\bin\Debug\netcoreapp3.1\Vilain Names.deps.json
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\bin\Debug\netcoreapp3.1\Vilain Names.runtimeconfig.json
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\bin\Debug\netcoreapp3.1\Vilain Names.runtimeconfig.dev.json
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\bin\Debug\netcoreapp3.1\Vilain Names.dll
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\bin\Debug\netcoreapp3.1\Vilain Names.pdb
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\obj\Debug\netcoreapp3.1\Vilain Names.csproj.AssemblyReference.cache
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\obj\Debug\netcoreapp3.1\Vilain Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\obj\Debug\netcoreapp3.1\Vilain Names.AssemblyInfoInputs.cache
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\obj\Debug\netcoreapp3.1\Vilain Names.AssemblyInfo.cs
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\obj\Debug\netcoreapp3.1\Vilain Names.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\obj\Debug\netcoreapp3.1\Vilain Names.dll
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\obj\Debug\netcoreapp3.1\Vilain Names.pdb
+C:\Users\Jorka\source\repos\Entity Framework Core\Vilain Names\obj\Debug\netcoreapp3.1\Vilain Names.genruntimeconfig.cache

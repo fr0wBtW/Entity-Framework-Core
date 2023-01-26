@@ -1,0 +1,10 @@
+C:\Users\Jorka\source\repos\Entity Framework Core\FootballBetting.Data.Models\bin\Debug\netcoreapp3.1\FootballBetting.Data.Models.deps.json
+C:\Users\Jorka\source\repos\Entity Framework Core\FootballBetting.Data.Models\bin\Debug\netcoreapp3.1\FootballBetting.Data.Models.dll
+C:\Users\Jorka\source\repos\Entity Framework Core\FootballBetting.Data.Models\bin\Debug\netcoreapp3.1\FootballBetting.Data.Models.pdb
+C:\Users\Jorka\source\repos\Entity Framework Core\FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\FootballBetting.Data.Models.csproj.AssemblyReference.cache
+C:\Users\Jorka\source\repos\Entity Framework Core\FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\FootballBetting.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\source\repos\Entity Framework Core\FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\FootballBetting.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Jorka\source\repos\Entity Framework Core\FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\FootballBetting.Data.Models.AssemblyInfo.cs
+C:\Users\Jorka\source\repos\Entity Framework Core\FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\FootballBetting.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\source\repos\Entity Framework Core\FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\FootballBetting.Data.Models.dll
+C:\Users\Jorka\source\repos\Entity Framework Core\FootballBetting.Data.Models\obj\Debug\netcoreapp3.1\FootballBetting.Data.Models.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IncreaseAgeStoredProcedure
+build_property.ProjectDir = C:\Users\Jorka\source\repos\Entity Framework Core\ADO .NET\IncreaseAgeStoredProcedure\
